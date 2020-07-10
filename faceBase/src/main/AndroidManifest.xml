@@ -1,3 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="viz.commonlib.face">
+    package="viz.commonlib.face.base">
 </manifest>
