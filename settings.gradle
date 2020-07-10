@@ -1,0 +1,2 @@
+include ':faceBase'
+rootProject.name = "FaceBaseLib"
